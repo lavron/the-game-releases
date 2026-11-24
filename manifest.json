@@ -1,11 +1,11 @@
 {
   "game": "The Game",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "platforms": {
     "linux": {
-      "url": "https://github.com/lavron/the-game-releases/releases/download/v0.0.2/TheGame-Linux-0.0.2.tar.gz",
-      "size": 556555164,
-      "sha256": "2c962a901005297e924672853a46c233259154272ddb2998fd425c261e9408d9"
+      "url": "https://github.com/lavron/the-game-releases/releases/download/v0.0.3/TheGame-Linux-0.0.3.tar.gz",
+      "size": 563367622,
+      "sha256": "b4fb5424497d9c0970eb5a4c41ee88fddd28f2d302b5c718ece06733113a4dce"
     }
   }
 }
