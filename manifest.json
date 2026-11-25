@@ -1,14 +1,15 @@
 {
   "game": "The Game",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "platforms": {
     "linux": {
-      "url": "https://github.com/lavron/the-game-releases/releases/download/v0.0.5/TheGame-Linux-0.0.5.tar.gz",
-      "size": 564512536,
-      "sha256": "347c5a31fb056eb8e76609808918bc42a81765f6d53423f44dd62bc569afc864"
+      "url": "https://github.com/lavron/the-game-releases/releases/download/v0.0.6/TheGame-Linux-0.0.6.tar.gz",
+      "size": 565111749,
+      "sha256": "e8b8a5e3a7d8c086b87be88a1a5d757454f7c7dfeacd9901c715b4786f2721e9"
     }
   },
   "changelog": {
+    "0.0.6": "Improve item prompts and controller controls",
     "0.0.5": "Add mushroom gathering and tree collisions",
     "0.0.4": "Add two-player seating",
     "0.0.3": "Expand the landscape",
