@@ -1,15 +1,16 @@
 {
   "game": "The Game",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "platforms": {
     "linux": {
-      "url": "https://github.com/lavron/the-game-releases/releases/download/v0.0.3/TheGame-Linux-0.0.3.tar.gz",
-      "size": 563367622,
-      "sha256": "b4fb5424497d9c0970eb5a4c41ee88fddd28f2d302b5c718ece06733113a4dce"
+      "url": "https://github.com/lavron/the-game-releases/releases/download/v0.0.4/TheGame-Linux-0.0.4.tar.gz",
+      "size": 563975010,
+      "sha256": "400b4645fced48810e02a516613a1051016cfce04138480c5adefc72e0e865fa"
     }
   },
   "changelog": {
+    "0.0.4": "Add two-player seating",
     "0.0.3": "Expand the landscape",
-    "0.0.2": "Add multiplayer"
+    "0.0.2": "Linux client build 0.0.2"
   }
 }
