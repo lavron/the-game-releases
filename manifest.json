@@ -7,5 +7,9 @@
       "size": 563367622,
       "sha256": "b4fb5424497d9c0970eb5a4c41ee88fddd28f2d302b5c718ece06733113a4dce"
     }
+  },
+  "changelog": {
+    "0.0.3": "Expand the landscape",
+    "0.0.2": "Add multiplayer"
   }
 }
